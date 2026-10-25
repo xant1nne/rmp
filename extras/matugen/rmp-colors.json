@@ -1,0 +1,11 @@
+{
+  "accent": "{{colors.primary.default.hex}}",
+  "secondary": "{{colors.secondary.default.hex}}",
+  "surface": "{{colors.surface.default.hex}}",
+  "surface_hi": "{{colors.surface_container_high.default.hex}}",
+  "background": "{{colors.background.default.hex}}",
+  "on_surface": "{{colors.on_surface.default.hex}}",
+  "on_surface_variant": "{{colors.on_surface_variant.default.hex}}",
+  "outline": "{{colors.outline.default.hex}}",
+  "error": "{{colors.error.default.hex}}"
+}

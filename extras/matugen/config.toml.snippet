@@ -1,0 +1,11 @@
+# Manual matugen setup. The easiest path is `rmp --setup-matugen <image>`, which
+# writes this file for you (including the mandatory [config] table).
+#
+# Add to ~/.config/matugen/config.toml:
+
+[config]
+version_check = false
+
+[templates.rmp]
+input_path = '/home/nexz0r/.config/matugen/templates/rmp-colors.json'
+output_path = '/home/nexz0r/.config/rmp/colors.json'
